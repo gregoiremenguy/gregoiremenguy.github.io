@@ -1,0 +1,85 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$sidebar-bg-color: #060936;
+$link-color: #FF6400;
+$body-color: black;
+$sidebar-sticky: false;
+@import "hydeout";
+
+p {
+  text-align: justify;
+}
+
+h1 {
+    color: #060936;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sidebar nav > * {
+    display: -webkit-inline-box;
+    line-height: 1.5;
+}
+
+.caticon {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+.site-title {
+    text-decoration: none !important;
+}
+
+.category-link:hover {
+    text-decoration: none !important;
+    font-weight: bold;
+}
+//
+//.content {
+//	background-color: transparent;
+//}
+
+.container_twitter {
+     background: $body-bg;
+    color: $body-color;
+    min-height: 100vh;
+    padding:
+      $section-spacing * 2
+      $section-spacing * 2
+      0;
+
+    > header {
+      color: $heading-color;
+      margin: 0;
+
+      h1,
+      h2 {
+        color: inherit;
+
+        &:last-child {
+          margin-bottom: $heading-spacing;
+        }
+      }
+    }
+
+    > * {
+      //max-width: 38rem;
+      max-width: 20rem;
+      padding: 0;
+    }
+}
+
+.twitter-timeline {
+    color: transparent
+}
+
+.linkedin {
+    position: absolute;
+    bottom: 10px;
+}
