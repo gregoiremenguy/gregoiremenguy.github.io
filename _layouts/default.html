@@ -11,10 +11,14 @@
       {{ content }}
     </main>
 
-    <main class="container_twitter">
-    {% twitter https://twitter.com/grmenguy maxwidth=500 %} 
+    </div>
     </main>
 
+    <main class="container_twitter">
+        <div class='jekyll-twitter-plugin'><a class="twitter-timeline" data-width="500" href="https://twitter.com/grmenguy?ref_src=twsrc%5Etfw">Tweets by grmenguy</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </main>
 
     {% include custom-foot.html %}
   </body>
