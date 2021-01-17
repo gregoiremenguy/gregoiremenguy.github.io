@@ -34,7 +34,8 @@ linkedin_username: gregoire-menguy
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-hydeout
+#theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 plugins:
    - jekyll-twitter-plugin
 #  - jekyll-feed
