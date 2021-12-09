@@ -2,6 +2,14 @@
 
 #### 2021
 
+**Search-Based Local Black-Box Deobfuscation: Understand, Improve and Mitigate** \\
+Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richard Bonichon](https://rbonichon.github.io/), Cauim de Souza Lima \\
+<a href="https://www.sigsac.org/ccs/CCS2021/" style="color:#081585;">The ACM Conference on Computer and Communications Security (ACM CCS 2021)</a>
+
+**Protecting Against AI-based Code Deobfuscation** \\
+Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richard Bonichon](https://rbonichon.github.io/), Cauim de Souza Lima \\
+<a href="https://www.european-cyber-week.eu/conference-caid" style="color:#081585;">Conference on Artificial Intelligence for Defense (CAID 2021)</a>
+
 **AI-based Code Deobfuscation: Evaluation and Improvement** \\
 Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richard Bonichon](https://rbonichon.github.io/), Cauim de Souza Lima \\
 <a href="https://sites.google.com/view/mlpa2020/" style="color:#081585;">The 2020 Machine Learning for Program Analysis (MLPA 2020) workshop</a>
@@ -10,7 +18,7 @@ Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richar
 
 **Intelligence artificielle pour la déobfuscation** \\
 Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richard Bonichon](https://rbonichon.github.io/), Cauim de Souza Lima \\
-<a href="https://www.cesar-conference.org/?page_id=2379" style="color:#081585;">Conference on Artificial Intelligence for Defense (CAID2020)</a>
+<a href="https://www.cesar-conference.org/?page_id=2379" style="color:#081585;">Conference on Artificial Intelligence for Defense (CAID 2020)</a>
 
 ### Invited Talks
 
