@@ -1,0 +1,28 @@
+# PRECA Platform
+
+This is the artifacts for the IJCAI-22 submission of PreCA.
+
+## LIST OF ARTIFACTS
+
+* The benchmark used in the paper is available at (WARNING Deanonymization!!!): https://tinyurl.com/mwsv2dbp
+* A virtual machine (VM) with all scripts to replay experiments from the paper is available at (WARNING Deanonymization!!!): https://tinyurl.com/4tkcmkwk
+
+## Dataset
+
+To review benchmark, unzip the benchmark_ijcai-22.zip file. It contains 2 directories:
+* sources: it contains source code of functions considered
+* bin: the binaries of each function from sources
+
+Inside these two directories, you can found two others:
+* nopost: functions without postconditions
+* post: functions with postconditions
+
+## Virtual machine
+
+Use virtualbox (https://www.virtualbox.org/) to launch the VM.
+
+The user and root password for the virtual machine is: password.
+
+All necessary materials to replay PreCA experiments are given in the VM.
+
+
