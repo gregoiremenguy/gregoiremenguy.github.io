@@ -14,7 +14,7 @@ I received in 2018 my Engineering and Master degree from [Télécom SudParis](ht
 ## Activities
 
 * **Sub-reviewer :** DIMVA'20, ACSAC'20, ISSTA'21, ESORICS'21, RTAS'22
-* **Artifacts evaluation :** [ACSAC](https://www.acsac.org/2020/committees/artifact/)
+* **Artifacts evaluation :** [ACSAC](https://www.acsac.org/2020/committees/artifact/), USENIX Security'22
 * **Student Volunteer :** IJCAI'20, ICSE'21
 
 [comment]: <> (Find here my complete [CV](../pdf/cv.pdf))
