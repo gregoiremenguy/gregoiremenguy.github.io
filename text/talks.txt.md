@@ -29,5 +29,9 @@ Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richar
 &bull; <a href="https://www.emproof.de/" style="color:#081585;">Emproof</a> : *R&D company specialized in software protections* \\
 &bull; <a href="https://seminaires-dga.inria.fr/en/sosysec-en-bref/" style="color:#081585;">SoSySec seminar</a> : *Cybersecurity seminar co-organized by INRIA, DGA and IRISA*
 
+### Tools Demos
+
+**Xyntia: Blackbox deobfuscation tool ([see](https://binsec.github.io/new/publication/1970/01/01/nutshell-ccs-21.html))** \\
+&bull; <a href="https://gtmfs2022.sciencesconf.org/" style="color:#081585;">2022 Annual Meeting of the WG "Formal Methods for Security"</a>
 
 
