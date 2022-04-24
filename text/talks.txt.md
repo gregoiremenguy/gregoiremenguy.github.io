@@ -24,10 +24,10 @@ Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richar
 
 **Search-based Local Blackbox deobfuscation: Understand, Improve and Mitigate** \\
 Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richard Bonichon](https://rbonichon.github.io/), Cauim de Souza Lima \\
-&bull; <a href="https://www.lirmm.fr/coconut/index.php" style="color:#081585;">LIRMM COCONUT</a> : *Research laboratory specilized in artificial intelligence* \\
-&bull; <a href="https://quarkslab.com/" style="color:#081585;">Quarkslab</a> : *R&D company specialized in binary analysis* \\
-&bull; <a href="https://www.emproof.de/" style="color:#081585;">Emproof</a> : *R&D company specialized in software protections* \\
-&bull; <a href="https://seminaires-dga.inria.fr/en/sosysec-en-bref/" style="color:#081585;">SoSySec seminar</a> : *Cybersecurity seminar co-organized by INRIA, DGA and IRISA*
+&bull; <a href="https://www.lirmm.fr/coconut/index.php" style="color:#081585;">LIRMM COCONUT (2020)</a> : *Research laboratory specilized in artificial intelligence* \\
+&bull; <a href="https://quarkslab.com/" style="color:#081585;">Quarkslab (2021)</a> : *R&D company specialized in binary analysis* \\
+&bull; <a href="https://www.emproof.de/" style="color:#081585;">Emproof (2021)</a> : *R&D company specialized in software protections* \\
+&bull; <a href="https://seminaires-dga.inria.fr/en/sosysec-en-bref/" style="color:#081585;">SoSySec seminar (2022)</a> : *Cybersecurity seminar co-organized by INRIA, DGA and IRISA*
 
 ### Tools Demos
 
