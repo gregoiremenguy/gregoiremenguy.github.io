@@ -1,5 +1,12 @@
 ### Conferences and Workshops
 
+#### 2022
+
+**Search-Based Local Black-Box Deobfuscation: Understand, Improve and Mitigate** \\
+Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richard Bonichon](https://rbonichon.github.io/), Cauim de Souza Lima \\
+<a href="https://project.inria.fr/FranceJapanICST/save-the-date-6th-franco-japanese-cybersecurity-workshop-online-april-20-22/" style="color:#081585;">6th Franco-Japanese Cybersecurity Workshop</a>
+
+
 #### 2021
 
 **Search-Based Local Black-Box Deobfuscation: Understand, Improve and Mitigate** \\
