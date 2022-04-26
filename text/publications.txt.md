@@ -1,4 +1,10 @@
 
+#### 2022
+
+**Automated Program Analysis: Revisiting Precondition Inference through Constraint Acquisition** \\
+Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Nadjib Lazaar](https://www.lirmm.fr/~lazaar/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) \\
+<a href="https://ijcai-22.org/" style="color:#081585;">The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)</a>\\
+**Core ranking: A***
 
 #### 2021
 
