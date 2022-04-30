@@ -1,5 +1,5 @@
 
-I am a PhD student at [CEA LIST](http://www-list.cea.fr/en/) under the supervision of [Sebastien Bardin](http://sebastien.bardin.free.fr/), [Arnaud Goetlieb](https://www.simula.no/people/arnaud) and [Nadjib Lazaar](http://www.lirmm.fr/~lazaar/). My research focuses on combining formal methods and artificial intelligence for binary analysis. 
+I am a PhD student at [CEA LIST](http://www-list.cea.fr/en/) under the supervision of [Sebastien Bardin](http://sebastien.bardin.free.fr/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) and [Nadjib Lazaar](http://www.lirmm.fr/~lazaar/). My research focuses on combining formal methods and artificial intelligence for binary analysis. 
 
 I am interrested by artificial intelligence and cybersecurity -- more specifically by software security. I leverage aritificial intelligence with deductive methods to perform reverse engineering, software validation and testing.
 
