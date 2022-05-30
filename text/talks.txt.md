@@ -29,6 +29,11 @@ Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richar
 
 ### Invited Talks
 
+**Automated Program Analysis: Revisiting Precondition Inference through Constraint Acquisition** \\
+Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Nadjib Lazaar](https://www.lirmm.fr/~lazaar/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) \\
+&bull; <a href="https://www.simula.no/" style="color:#081585;">Simula Research Laboratory (2022)</a> : *Research laboratory specilized in machine learning for industrial projects* \\
+
+
 **Search-based Local Blackbox deobfuscation: Understand, Improve and Mitigate** \\
 Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richard Bonichon](https://rbonichon.github.io/), Cauim de Souza Lima \\
 &bull; <a href="https://www.lirmm.fr/coconut/index.php" style="color:#081585;">LIRMM COCONUT (2020)</a> : *Research laboratory specilized in artificial intelligence* \\
