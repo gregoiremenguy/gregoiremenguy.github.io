@@ -31,7 +31,8 @@ Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Richar
 
 **Automated Program Analysis: Revisiting Precondition Inference through Constraint Acquisition** \\
 Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Nadjib Lazaar](https://www.lirmm.fr/~lazaar/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) \\
-&bull; <a href="https://www.simula.no/" style="color:#081585;">Simula Research Laboratory (2022)</a> : *Research laboratory specilized in machine learning for industrial projects*
+&bull; <a href="https://www.simula.no/" style="color:#081585;">Simula Research Laboratory (2022)</a> : *Research laboratory specilized in machine learning for industrial projects* \\
+&bull; <a href="https://www.telecom-sudparis.eu/" style="color:#081585;">Télécom SudParis</a> : *French engineering school*
 
 
 **Search-based Local Blackbox deobfuscation: Understand, Improve and Mitigate** \\
