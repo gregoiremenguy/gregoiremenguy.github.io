@@ -1,7 +1,9 @@
 
-I am a PhD student at [CEA LIST](http://www-list.cea.fr/en/) under the supervision of [Sebastien Bardin](http://sebastien.bardin.free.fr/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) and [Nadjib Lazaar](http://www.lirmm.fr/~lazaar/). My research focuses on combining formal methods and artificial intelligence for binary analysis. 
+I am currently resercher at [CEA LIST](http://www-list.cea.fr/en/), where I work on new powerful reverse engineering methods to help code understanding, malware analysis and much more.
+I am interrested by artificial intelligence and cybersecurity -- more specifically by software security. I leverage artificial intelligence with formal methods to perform reverse engineering.
 
-I am interrested by artificial intelligence and cybersecurity -- more specifically by software security. I leverage aritificial intelligence with deductive methods to perform reverse engineering, software validation and testing.
+Previously, I was a PhD student at [CEA LIST](http://www-list.cea.fr/en/) under the supervision of [Sebastien Bardin](http://sebastien.bardin.free.fr/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) and [Nadjib Lazaar](http://www.lirmm.fr/~lazaar/). I defended my thesis on March 14th 2023. I studied how artificial intelligence can be used for binary code reverse engineering. 
+
 
 I received in 2018 my Engineering and Master degree from [Télécom SudParis](https://www.telecom-sudparis.eu/) (Évry, France) specialised in cybersecurity. I also obtained the *[Expert of information systems security](https://www.ssi.gouv.fr/particulier/formations/titre-essi/)* certification from the National Cybersecurity Agency of France (ANSSI -- Agence Nationale de la Sécurité des Systèmes d'Information).  
 
