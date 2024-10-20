@@ -1,3 +1,9 @@
+#### 2023
+
+**Active Disjunctive Constraint Acquisition** \\
+Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Nadjib Lazaar](https://www.lirmm.fr/~lazaar/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) \\
+<a href="https://kr.org/KR2023/" style="color:#081585;">The 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023)</a>\\
+**Core ranking: A***
 
 #### 2022
 
