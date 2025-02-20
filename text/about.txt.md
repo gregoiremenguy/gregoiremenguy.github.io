@@ -1,5 +1,5 @@
 
-I am currently a researcher at [CEA LIST](http://www-list.cea.fr/en/), where I work on new powerful reverse engineering methods to help code understanding, malware analysis and much more.
+I am currently a researcher at [CEA LIST](http://www-list.cea.fr/en/) in the [Binsec team](https://binsec.github.io/), where I work on new powerful reverse engineering methods to help code understanding, malware analysis and much more.
 I am interested in artificial intelligence and cybersecurity -- specifically, software security. I leverage artificial intelligence with formal methods to perform reverse engineering.
 
 Previously, I was a Ph.D. student at [CEA LIST](http://www-list.cea.fr/en/) under the supervision of [Sebastien Bardin](http://sebastien.bardin.free.fr/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) and [Nadjib Lazaar](http://www.lirmm.fr/~lazaar/). I defended my thesis on March 14th, 2023. I studied how artificial intelligence can be used for binary code reverse engineering.
