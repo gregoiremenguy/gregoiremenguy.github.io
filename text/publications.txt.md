@@ -1,3 +1,8 @@
+#### 2025
+**A Query-Based Constraint Acquisition Approach for Enhanced Precision in Program Precondition Inference** \\
+Grégoire Menguy, [Sébastien Bardin](http://sebastien.bardin.free.fr/), [Nadjib Lazaar](https://www.lirmm.fr/~lazaar/), [Arnaud Gotlieb](https://www.simula.no/people/arnaud) \\
+<a href="https://www.jair.org/" style="color:#081585;">The Journal of Artificial Intelligence Research (JAIR)</a>
+
 #### 2023
 
 **Active Disjunctive Constraint Acquisition** \\
