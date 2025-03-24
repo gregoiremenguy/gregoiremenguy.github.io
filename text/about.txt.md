@@ -7,6 +7,14 @@ Previously, I was a Ph.D. student at [CEA LIST](http://www-list.cea.fr/en/) unde
 I received in 2018 my Engineering and Master's degree from [Télécom SudParis](https://www.telecom-sudparis.eu/) (Évry, France) specialized in cybersecurity. I also obtained the *[Expert of information systems security](https://www.ssi.gouv.fr/particulier/formations/titre-essi/)* certification from the National Cybersecurity Agency of France (ANSSI -- Agence Nationale de la Sécurité des Systèmes d'Information).
 
 ------------------
+## Supervision
+
+I am currently supervising 3 PhD students (sorted by date of arrival):
+- [Vidal Attias](https://vidal-attias.io)
+- [Aicha Boukhari](https://www.linkedin.com/in/aicha-beya-boukhari-4b7615202/)
+- [Sarra Djebour](https://www.linkedin.com/in/djebour-sarra-b62847206/)
+
+------------------
 ## Previous Research Experiences
 
 **2018** I worked at [FORTH-ICS](https://www.ics.forth.gr/) under the supervision of [Dr. Ioannidis](http://users.ics.forth.gr/~sotiris/) on android malware analysis. I performed a preliminary study on the use of cryptojackers in android apps from different markets. 
