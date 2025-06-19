@@ -22,7 +22,7 @@ I am currently supervising 3 PhD students (sorted by date of arrival):
 ---------------
 ## Activities
 
-* **PC Chair :** [GTMFS 2025](https://gtmfs2025.sciencesconf.org/)
+* **PC Chair :** [GTMFS 2025](https://gtmfs2025.sciencesconf.org/), [GT SSLR 2025](https://gtsslr2025.sciencesconf.org/)
 * **Sub-reviewer :** DIMVA'20, ACSAC'20, ISSTA'21, ESORICS'21, RTAS'22, CAV'22, ISSTA'22, ESORICS'22, DIMVA'22, ESEC/FSE'22
 * **Artifacts evaluation :** ACSAC [2020](https://www.acsac.org/2020/committees/artifact/), 2021; USENIX Security [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts), [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts); CAV 2023
 * **Student Volunteer :** IJCAI'20, ICSE'21
