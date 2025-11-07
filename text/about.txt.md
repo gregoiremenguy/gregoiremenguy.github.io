@@ -14,6 +14,10 @@ I am currently supervising 3 PhD students (sorted by date of arrival):
 - [Aicha Boukhari](https://www.linkedin.com/in/aicha-beya-boukhari-4b7615202/)
 - [Sarra Djebour](https://www.linkedin.com/in/djebour-sarra-b62847206/)
 
+Former interns:
+- Johanna Latzel
+- [Maël Hostettler](https://www.linkedin.com/in/maelhostettler/?originalSubdomain=fr)
+
 ------------------
 ## Previous Research Experiences
 
