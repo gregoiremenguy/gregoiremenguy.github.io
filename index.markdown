@@ -17,7 +17,7 @@ title: home
 
 -------------------------------
 
-# Tools
+# Tools
 
 {% include_relative text/tools.txt.md %}
 
