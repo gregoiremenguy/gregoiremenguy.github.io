@@ -16,6 +16,12 @@ title: home
 {% include_relative text/publications.txt.md %}
 
 -------------------------------
+
+# Tools
+
+{% include_relative text/tools.txt.md %}
+
+-------------------------------
 # Talks
 
 {% include_relative text/talks.txt.md %}
